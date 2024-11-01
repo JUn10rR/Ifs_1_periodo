@@ -1,0 +1,57 @@
+QUESTÃO 1: Média Aritmética Crie um programa que declare três variáveis para armazenar notas de um aluno. Calcule a média aritmética. 
+Dica: Use variáveis como nota1, nota2, nota3 e uma variável media.
+
+
+[ ]
+nota1 = 7
+nota2 = 5
+nota3 = 3
+alunoCaio = nota1 + nota2 + nota3
+media = alunoCaio / 2
+
+print ("A média é:", media, "pontos")
+
+
+
+QUESTÃO 2: Área de um Círculo
+Crie um programa que declare uma variável para o raio de um círculo. Inserira um valor do raio e calcule a área do círculo usando a fórmula A = π × r². Exiba o resultado formatado.
+Dica: Use a variável raio e uma variável area.
+
+
+[ ]
+raio = 5
+A = 3.14 * (raio * raio)
+area = A
+
+print ("A área é", area)
+
+
+QUESTÃO 3: Operações Combinadas Crie um programa que declare quatro variáveis inteiras. Peça ao usuário para inserir valores para cada uma delas. Calcule a seguinte expressão: (a+b)×(c−d) e exiba o resultado.
+Dica: Use as variáveis a, b, c e d, e armazene o resultado em uma variável chamada resultadoFinal.
+
+
+[ ]
+a = 7
+b = 9
+c = 16
+d = 34
+
+calculo = (a + b) * (c - d)
+
+resultadoFinal = calculo
+
+print (" O cálculo é", resultadoFinal)
+
+
+QUESTÃO 4: Conversão de Temperatura
+Desenvolva um programa que declare uma variável para armazenar uma temperatura em Celsius. Inserira uma temperatura em Celsius e converta-a para Fahrenheit, usando a fórmula F= C × 5/9 ​+ 32 . Exiba a temperatura convertida.
+Dica: Use a variável temperaturaCelsius e uma variável temperaturaFahrenheit.
+
+
+[ ]
+temperaturaCelsius = 35
+C = temperaturaCelsius
+f = C * (9/5) + 32
+temperaturaFahrenheit = f
+
+print ("A conversão é", temperaturaFahrenheit, "graus")
