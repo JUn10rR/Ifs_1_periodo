@@ -1,1 +1,1 @@
-Atividades praticas na linguagem python, de todos os períodos do curso 
+Atividades praticas na linguagem python utilizados no primeiro período do curso 
